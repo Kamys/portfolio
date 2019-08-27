@@ -1,9 +1,11 @@
 body {
     width: 100%;
     height: 100%;
-    background-color: #ddd;
+    background-color: blue;
+    margin: 0;
 }
 
 .photo {
+    background-color: red;
     width: calc(6.25% * 4 - 16px * 3)
 }
